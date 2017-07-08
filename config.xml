@@ -73,8 +73,8 @@
   <plugin name="cordova-plugin-whitelist" spec="1.0.0"/>
   <plugin name="com.ionic.keyboard" spec="https://github.com/driftyco/ionic-plugins-keyboard.git"/>
   <plugin name="cordova-plugin-splashscreen" spec="^2.1.0"/>
-  <plugin name="com.phonegap.plugins.facebookconnect" spec="0.9.0" source="pgb">
+  <vs:plugin name="com.phonegap.plugins.facebookconnect" version="0.8.1">
         <param name="APP_ID" value="598204770343635" />
         <param name="APP_NAME" value="Atlas App" />
-  </plugin>
+</vs:plugin>
 </widget>
