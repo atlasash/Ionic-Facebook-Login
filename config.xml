@@ -76,5 +76,5 @@
       <plugin name="com.phonegap.plugins.facebookconnect" spec="0.9.0" source="pgb">
         <param name="APP_ID" value="598204770343635" />
         <param name="APP_NAME" value="Atlas App" />
-    <plugin>
+  <plugin>
 </widget>
